@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Armijo init probe for Adam"
+authors:
+  - given-names: Ashmitha
+    family-names: R
+    orcid: "https://orcid.org/0009-0004-4693-4965"
+  - given-names: Jörg
+    family-names: Frochte
+    orcid: "https://orcid.org/0000-0002-5908-5649"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Directional Curvature from Armijo Backtracking: A Low-Cost Sharpness Probe and a Calibration-Free Learning-Rate Safeguard for Adam"
+  authors:
+    - given-names: Ashmitha
+      family-names: R
+    - given-names: Jörg
+      family-names: Frochte
+  journal: "Transactions on Machine Learning Research"
+  year: 2026
+  url: "https://openreview.net/forum?id=foLGwG3ne4"
