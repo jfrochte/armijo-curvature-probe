@@ -6,7 +6,7 @@ at initialisation. Reference implementation for
 > Ashmitha R and Jörg Frochte. *Directional Curvature from Armijo Backtracking:
 > A Low-Cost Sharpness Probe and a Calibration-Free Learning-Rate Safeguard for
 > Adam.* Transactions on Machine Learning Research, 2026.
-> [OpenReview](https://openreview.net/forum?id=foLGwG3ne4) ·
+> [Paper (PDF)](https://openreview.net/pdf?id=foLGwG3ne4) ·
 > [arXiv:2607.03998](https://arxiv.org/abs/2607.03998) ·
 > [Video](https://youtu.be/15dP4rbk3QE)
 
@@ -87,7 +87,7 @@ included; the code downloads them.
   author  = {R, Ashmitha and Frochte, J{\"o}rg},
   journal = {Transactions on Machine Learning Research},
   year    = {2026},
-  url     = {https://openreview.net/forum?id=foLGwG3ne4}
+  url     = {https://openreview.net/pdf?id=foLGwG3ne4}
 }
 ```
 
